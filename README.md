@@ -1,2 +1,2 @@
-# mtc-frontend-preprod
-javascript Code for MTC-test
+# This preprod javascript repository for  developers. 
+The infra was last modified by: Samuel "Sam" Haile
